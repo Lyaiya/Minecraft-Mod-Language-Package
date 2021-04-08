@@ -2,7 +2,7 @@
 
 ---
 
-**Languages / 语言：** [**中文**](README.md) / [English](README-en.md)
+**Languages / 语言：中文**丨[English](README-en.md)
 
 | 翻译进度 | GitHub Actions | 最新快照版本 |
 | :--: | :--: | :--: |
@@ -18,13 +18,13 @@
 
 [CFPA 官网](https://cfpa.team)
 
-你在翻译时, 应先了解需注意的有关事项，具体参见：[《Minecraft Mod简体中文翻译规范与指南》](https://github.com/Krasjet/Mod-Translation-Styleguide/blob/master/README.md)。
+你在翻译时，应先了解需注意的有关事项，具体参见：[《Minecraft Mod简体中文翻译规范与指南》](https://github.com/Krasjet/Mod-Translation-Styleguide/blob/master/README.md)。
 
 ---
 
 ## 使用方法
 
-### 1. 使用模组自动加载资源包
+### 1. 自动加载资源包
 
 安装自动汉化更新模组（I18nUpdateMod）后，即可在游戏加载过程中自动加载资源包，无需进行其他操作。
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 相关信息
+## 技术说明
 
 **你们是怎么做到流水线式的翻译的？**
 
@@ -76,6 +76,6 @@ emmmm，原理其实很简单。
 
 资源包内置了 `3TUSK` 提供的 [全角标点修复文件](./project/1.16.1/assets/minecraft/minecraft/readme.md)。
 
-最后感谢那些参与翻译，并致力于本地化推广的各位玩家，你们辛苦了。
-
 可在本仓库的 [Contributors](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/graphs/contributors) 页面查看所有翻译贡献者。
+
+最后感谢那些参与翻译，并致力于本地化推广的各位玩家，你们辛苦了。
