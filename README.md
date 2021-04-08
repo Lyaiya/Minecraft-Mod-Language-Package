@@ -20,7 +20,7 @@
 
 ## 参与翻译？
 
-你在翻译时，应先了解需注意的有关事项，具体参见：[《Minecraft Mod简体中文翻译规范与指南》](https://github.com/Krasjet/Mod-Translation-Styleguide/blob/master/README.md)。
+请查阅 [CONTRIBUTING](./doc/CONTRIBUTING.md)。
 
 ---
 
