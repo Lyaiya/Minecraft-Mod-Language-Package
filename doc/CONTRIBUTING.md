@@ -33,9 +33,7 @@
 
 [国内访问地址](http://weblate-cn.exz.me:54943/)丨[国外访问地址](http://weblate-t-cf.exz.me/)丨[备选地址](https://weblate-t.exz.me/)
 
-要想使用 Weblate 进行翻译，需在 [CFPAOrg 反馈中心](https://ticket.cyllive.cn/) 新建工单，在帮助主题选择**帐号申请**，填写相关信息以申请帐号。
-
-注意事项：
+要想使用 Weblate 进行翻译，需在 [CFPAOrg 反馈中心](https://ticket.cyllive.cn/) 新建工单，在帮助主题选择**帐号申请**，填写相关信息以申请 Weblate 帐号。
 
 - 请尽量在**熟悉模组**的情况下进行翻译，建议翻译时打开 Minecraft 以进行测试。
 - 善用 Weblate 提供的词典功能，以方便翻译及提高翻译速度。
@@ -72,15 +70,15 @@
 
 **建议修改的配置文件仅为 `config/spider/config.json`，故其他文件不做说明。**
 
-- "version"：游戏版本，**请勿修改**
-- "spider_conf"：爬虫相关设置
-- "base_mod_count"：默认爬取模组的数量
-- "black_list"：模组黑名单，元素为 `String` 类型，内容为 `CurseForge` 上的数字 ID
-- "white_list"：模组白名单，同上。
+- `"version"`：游戏版本，**请勿修改**
+- `"spider_conf"`：爬虫相关设置
+- `"base_mod_count"`：默认爬取模组的数量
+- `"black_list"`：模组黑名单，元素为 `String` 类型，内容为 `CurseForge` 上的数字 ID
+- `"white_list"`：模组白名单，说明同上。
 
 注意事项：
 
-- 请勿随意修改**模组黑名单**，这些模组在这里是有原因的。
+- 请勿随意修改**模组黑名单**，这些模组被添加到黑名单是有原因的。
 - 请勿在未经同意的情况下修改**默认爬取模组的数量**。
 
 ## 问题反馈
