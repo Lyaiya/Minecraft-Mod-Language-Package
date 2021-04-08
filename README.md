@@ -74,7 +74,7 @@ emmmm，原理其实很简单。
 
 感谢本项目的最初贡献者 `Aemande123`，`DYColdWind`，`Snownee`，`yuanjie000`，`forestbat`，`3TUSK`，`SihenZhang`，`MoXiaoFreak`，`gloomy_banana`，`yuanjie000`，`exia00125`，`luckyu19` 所提供的汉化。（排名不分先后）
 
-资源包内置了 `3TUSK` 提供的 [全角标点修复文件](./project/1.16.1/assets/minecraft/minecraft/readme.md)。
+资源包内置了 `3TUSK` 提供的 [全角标点修复文件](./projects/1.16.1/assets/minecraft/minecraft/readme.md)。
 
 可在本仓库的 [Contributors](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/graphs/contributors) 页面查看所有翻译贡献者。
 
