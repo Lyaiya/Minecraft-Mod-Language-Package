@@ -12,17 +12,19 @@
 
 ## 仓库说明
 
-这是 Minecraft 模组汉化项目的仓库，用以解决模组作者不接收汉化、汉化提交更新速度慢等诸多问题；
-
-想要参与翻译？请访问我们的官方网站，并仔细阅读相关事宜以加入我们：
+这是 Minecraft 模组汉化项目的仓库，用以解决模组作者不接收汉化、汉化提交更新速度慢等诸多问题。
 
 [CFPA 官网](https://cfpa.team)
+
+---
+
+## 参与翻译？
 
 你在翻译时，应先了解需注意的有关事项，具体参见：[《Minecraft Mod简体中文翻译规范与指南》](https://github.com/Krasjet/Mod-Translation-Styleguide/blob/master/README.md)。
 
 ---
 
-## 使用方法
+## 使用说明
 
 ### 1. 自动加载资源包
 
@@ -34,7 +36,7 @@
 
 ### 2. 手动加载资源包
 
-可在 [Releases](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/releases) 下载快照版本资源包，使用方法与**普通资源包**相同。
+可在 [Releases](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/releases) 页面下载快照版本资源包，使用方法与**普通资源包**相同。
 
 - 名称前缀有 1-16 的资源包（1-16-汉化资源包-Snapshot-xx）为 1.16 专用资源包。
 - 非上述情况的资源包（汉化资源包-Snapshot-xx）为 1.12 专用资源包。
