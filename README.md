@@ -56,13 +56,13 @@ emmmm，原理其实很简单。
 
 ---
 
-## 授权
+## 授权协议
 
-本作品采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)（[简体中文](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)）进行许可，协议全文可在 [此处](./LICENSE) 找到。
+本项目采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)（[简体中文](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)）进行许可，协议全文可在 [此处](./LICENSE) 找到。
 
 ---
 
-## 鸣谢
+## 特别鸣谢
 
 感谢 `phi` 搭建出了 Weblate 服务器，还提供了机器翻译功能。
 
